@@ -1,0 +1,14 @@
+{
+  "name": "workbox",
+  "version": "1.0.0",
+  "description": "PWA using workbox - POC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "workbox-sw": "^2.1.1"
+  }
+}
